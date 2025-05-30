@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ProactiVibe</string>
+
+    <!--Actividad principal-->
+    <string name="Btn_Login">Iniciar Sesión</string>
+    <string name="Btn_Registro">Registro</string>
+
+    <!--Actividad registro-->
+    <string name="CrearCuenta">Crear una cuenta</string>
+    <string name="Nombre">Nombres</string>
+    <string name="Correo">Correo electrónico</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Confirmar_Contraseña">Confirmar contraseña</string>
+    <string name="Registrar_Usuario">Registrar</string>
+    <string name="Cuanta_Ya_Creada">Tengo una cuenta</string>
+
+    <!--MENU PRINCIPAL-->
+    <string name="CerrarSesión">Salir</string>
+    <string name="BienvenidoPrincipal">Bienvenido</string>
+    <string name="NombrePrincipal"> -- </string>
+    <string name="CorreoPrincipal"> -- </string>
+
+    <!--ACTIVIDAD LOGIN-->
+    <string name="iniciarSesionTXT">Iniciar Sesion</string>
+    <string name="correoLogin">Correo</string>
+    <string name="passLogin">Contraseña</string>
+    <string name="btnLogin">Entrar</string>
+    <string name="usuarioNuevoTXT">¿No tienes una cuenta?. Registrate</string>
+
+    <!--AGREGAR TAREA-->
+    <string name="Uid_Usuario">Uid del usuario</string>
+    <string name="Correo_usuario">Correo de usuario</string>
+    <string name="Fecha_hora_actual">Fecha y hora actual</string>
+    <string name="Titulo">Título</string>
+    <string name="Descripcion">Descripcion</string>
+    <string name="Btn_Calendario">Calendario</string>
+    <string name="Fecha">00/00/0000</string>
+    <string name="Estado">No finalizado</string>
+    <string name="Guardar">Guardar</string>
+
+</resources>
