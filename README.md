@@ -95,3 +95,110 @@ Register and log in with email and password
 View basic user information
 
 Secure logout
+
+Screenshots
+(Include screenshots of the app's main screens)
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contributions
+Contributions are welcome. Please open an issue or submit a pull request for any improvements or fixes.
+
+Contact
+For any questions or suggestions, please contact the development team.
+
+Hazlo para github
+ProActivibe - Task Management App 📋✅
+Android
+Firebase
+Java
+
+📌 Table of Contents
+Features
+
+Screenshots
+
+Installation
+
+Tech Stack
+
+Project Structure
+
+Contributing
+
+License
+
+✨ Features
+User Authentication 🔐
+
+Secure login/register with Firebase Auth
+
+User profile management
+
+Task Management ✅
+
+Create tasks with deadlines
+
+Set reminders with notifications
+
+Mark tasks as completed/canceled
+
+Achievements System 🏆
+
+Unlock badges for completing tasks
+
+Track your productivity progress
+
+Real-time Sync ⚡
+
+All data syncs instantly via Firebase
+
+📸 Screenshots
+Login Screen	Task List	Add Task
+<img src="screenshots/login.jpg" width="200">	<img src="screenshots/task_list.jpg" width="200">	<img src="screenshots/add_task.jpg" width="200">
+📥 Installation
+Clone the repository:
+
+bash
+git clone https://github.com/yourusername/ProActivibe.git
+Open in Android Studio
+
+Add your google-services.json file
+
+Run on emulator or physical device
+
+🛠 Tech Stack
+Frontend: Java, XML
+
+Backend: Firebase
+
+Authentication
+
+Realtime Database
+
+Notifications: AlarmManager, BroadcastReceiver
+
+📂 Project Structure
+app/
+├── src/
+│   ├── main/
+│   │   ├── java/com/josemaria/proactivibe/
+│   │   │   ├── activities/          # All app screens
+│   │   │   ├── services/            # Notification service
+│   │   │   └── utils/               # Helper classes
+│   │   └── res/                     # Layouts, strings, drawables
+├── build.gradle
+└── google-services.json
+🤝 Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the project
+
+Create your feature branch (git checkout -b feature/AmazingFeature)
+
+Commit your changes (git commit -m 'Add some amazing feature')
+
+Push to the branch (git push origin feature/AmazingFeature)
+
+Open a Pull Request
